@@ -1,0 +1,25 @@
+.background{
+    background-image: url('../img/surfing2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+.mrgn{
+    margin-top: 15%
+}
+.white{
+    color: white
+}
+.size{
+    font-size: 5em;
+    font-family: 'Permanent Marker', cursive;
+}
+.font-nav{
+    font-family: 'Teko', sans-serif;
+}
+.red{
+    color: red!important
+}
+.black{
+    color: black!important
+}
